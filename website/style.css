@@ -1,0 +1,34 @@
+h1 {
+
+    color: deeppink;
+    padding: 240px;
+
+}
+
+h2 {
+    font-size: 23px;
+
+
+}
+
+
+img {
+    padding-left: 35px;
+    scroll-behavior: smooth;
+    solid-color: deeppink;
+
+}
+
+p {
+    color: aqua;
+    gap: 16px;
+    background-color: chartreuse;
+
+
+}
+
+button {
+    nav-right: inherit;
+    mask-size: 153px;
+}
+
